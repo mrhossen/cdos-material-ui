@@ -1,5 +1,5 @@
 # CDOS Material UI
-A dynamic UI theme for Atom that based on Material colors. Best with <a href="#">Atom Material Syntax</a>.
+A dynamic UI theme for Atom that based on Material colors. Best with <a href="https://github.com/mrhossen/cdos-material-syntax">CDOS Material Syntax</a>.
 
 ## Installation
 Fire up a console and type:
