@@ -1,7 +1,7 @@
 {
   "name": "cdos-material-ui",
   "theme": "ui",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "CDOS Material ui theme for Atom",
   "keywords": [
     "ui",
